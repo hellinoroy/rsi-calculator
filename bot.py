@@ -1,19 +1,3 @@
-# TODO:
-# connect to marketcoincap api DONE
-# show crypto price from slug DONE
-# make object instead of json for data DONE
-# logging DONE
-# Calculate RSI DONE
-# when starting bot show all price changes then just latest prices DONE
-# add a way to add more coin DONE
-# show overbought/oversold
-# Better interface DONE ?
-
-# add auth to the bot
-# command logging DONE
-# make it accept obj not argument for job get request DONE
-# Remove obj
-
 import json
 
 import os 
@@ -192,11 +176,8 @@ async def calculateRsiCallback(context: ContextTypes.DEFAULT_TYPE):
 @restricted
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):  
   chat_id = update.effective_chat.id
-  # username = update.effective_chat.username
   first_name = update.effective_chat.first_name
-  # last_name = update.effective_chat.last_name
-  # context.user_data[chat_id] = [chat_id,first_name]
-  
+
   commandLogging("Start", [chat_id, first_name])
   await context.bot.send_message(
     chat_id = chat_id,
