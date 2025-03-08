@@ -1,0 +1,28 @@
+5768420841 - Roy - Run - 05:37:11.004493
+5768420841 - Roy - Run - 05:37:15.299540
+5768420841 - Roy - Run - 06:38:51.571780
+5768420841 - Roy - Run - 06:47:52.739117
+5768420841 - Roy - Run ['dogecoin'] - 07:01:12.459123
+5768420841 - Roy - Run ['dogecoin'] - 07:01:53.092856
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 07:03:47.281007
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 07:08:19.510801
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 07:13:28.286857
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 07:57:12.563840
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 08:03:36.058372
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 08:06:19.762268
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 08:10:46.676233
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 08:14:07.717208
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 09:43:12.274679
+5768420841 - Roy - Run ['dogecoin'] - 10:26:04.449990
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 10:26:35.708423
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 10:28:19.586195
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 10:31:01.548807
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 10:45:12.400255
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 10:53:31.184034
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 11:02:07.843953
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 11:06:23.821453
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 11:09:57.713627
+5768420841 - Roy - Run ['dogecoin', 'bitcoin'] - 11:32:27.371133
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 11:38:33.842603
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 11:55:26.149050
+5768420841 - Roy - Run ['bitcoin', 'dogecoin'] - 11:59:27.590789

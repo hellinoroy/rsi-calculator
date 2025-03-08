@@ -1,0 +1,12 @@
+{"timestamp": "2025-02-14T05:31:19.210Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"goblokcoinas\""}
+{"timestamp": "2025-02-14T05:32:38.423Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"gobloxcoinas\""}
+{"timestamp": "2025-02-14T06:26:54.597Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"golovadfa\""}
+{"timestamp": "2025-02-14T06:27:57.983Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"adsfjklasdflkj\""}
+{"timestamp": "2025-02-14T06:31:41.993Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"asodfijlasdkf\""}
+{"timestamp": "2025-02-14T06:32:39.258Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"asdklfjljkasdf\""}
+{"timestamp": "2025-02-14T06:34:54.534Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"asdlkjfhakljfhd\""}
+{"timestamp": "2025-02-14T06:35:56.566Z", "errorCode": 400, "errorMessage": "\"slug\" should only include comma-separated alphanumeric cryptocurrency slugs"}
+{"timestamp": "2025-02-14T06:38:17.055Z", "errorCode": 400, "errorMessage": "\"slug\" should only include comma-separated alphanumeric cryptocurrency slugs"}
+{"timestamp": "2025-02-14T06:39:11.619Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"ajdhfshljaksdf\""}
+{"timestamp": "2025-02-14T06:43:48.875Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"askjdfh\""}
+{"timestamp": "2025-02-14T07:00:56.800Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"aldksfj\""}

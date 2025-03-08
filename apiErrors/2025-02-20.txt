@@ -1,0 +1,2 @@
+{"timestamp": "2025-02-20T12:37:27.104Z", "errorCode": 400, "errorMessage": "Invalid value for \"slug\": \"etherium\""}
+{"timestamp": "2025-02-20T12:52:13.886Z", "errorCode": 400, "errorMessage": "\"slug\" should only include comma-separated alphanumeric cryptocurrency slugs"}
